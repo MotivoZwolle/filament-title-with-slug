@@ -1,5 +1,5 @@
 {
-    "name": "camya/filament-title-with-slug",
+    "name": "motivo/filament-title-with-slug",
     "description": "TitleWithSlugInput - Easy Permalink Slugs for the FilamentPHP Form Builder (PHP / Laravel / Livewire)",
     "keywords": [
         "framework",
@@ -11,7 +11,7 @@
         "alpinejs",
         "tailwindcss"
     ],
-    "homepage": "https://github.com/camya/filament-title-with-slug",
+    "homepage": "https://github.com/MotivoZwolle/filament-title-with-slug",
     "license": "MIT",
     "authors": [
         {
